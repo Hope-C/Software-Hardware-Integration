@@ -11,3 +11,4 @@ A personal-project that would allow me to improve my coding skills and implement
     - Extra - Battery Charge Simulation Program
 - Week 2
   - Python Coding - Algorithms - Binary Search & Linear Search
+  - C++ Coding - Number guessing game - exploring random library
